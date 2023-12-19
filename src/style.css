@@ -12,6 +12,10 @@ body {
 .img-responsive {
   width: 100%;
 }
+.img-gallery {
+  aspect-ratio: 2/1;
+  margin-top: 20px;
+}
 .img-card {
   aspect-ratio: 1/1;
 }
